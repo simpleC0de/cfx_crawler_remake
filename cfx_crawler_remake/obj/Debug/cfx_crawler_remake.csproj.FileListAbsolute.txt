@@ -1,0 +1,7 @@
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\bin\Debug\cfx_crawler_remake.exe.config
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\bin\Debug\cfx_crawler_remake.exe
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\bin\Debug\cfx_crawler_remake.pdb
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\obj\Debug\cfx_crawler_remake.csprojAssemblyReference.cache
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\obj\Debug\cfx_crawler_remake.csproj.CoreCompileInputs.cache
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\obj\Debug\cfx_crawler_remake.exe
+C:\Users\t.hetznecker\source\repos\cfx_crawler_remake\cfx_crawler_remake\obj\Debug\cfx_crawler_remake.pdb
